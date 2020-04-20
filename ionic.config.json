@@ -1,5 +1,8 @@
 {
   "name": "add-appflow",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "009e0a94"
 }
